@@ -5,5 +5,4 @@
 *Video çekerken Bandicam programını kullandım. 
 *Videoları tamamladıktan sonra youtubea yükledim. 
 *Youtube eklediğim videoların linklerini alarak hazırladığım web sayfasına gömdüm. 
-*Bütün sayfaları tamamladıktan sonra Filezilla aracılığıyla dosyalarımı "aylinbilener.me" adresime yükledim. 
-*Son olarak da sitenin dosyalarını Github'a yükledim.
+*Bütün sayfaları tamamladıktan sonra Filezilla aracılığıyla dosyalarımı "aylinbilener.me" adresime yüklemeye çalıştım fakat sorun yaşayınca yunus adresime yükledim.
